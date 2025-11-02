@@ -2,6 +2,7 @@
 Automata activities and projects
 
 **DFA String Acceptance Checker**
+
 Objective: Implement a DFA that accepts binary strings ending with 01.
 
 Instructions:
@@ -22,7 +23,9 @@ Output: Rejected
 Screenshot: 
 <img width="775" height="237" alt="image" src="https://github.com/user-attachments/assets/41a537af-a80a-4a17-a501-a05560258ebd" />
 
+
 **NFA Simulation (Multiple Next States)**
+
 Objective: Build an NFA simulator for strings containing ab as a substring.
 
 Instructions:
